@@ -1,5 +1,5 @@
 #include <pebble.h>
-
+/*
 Window *my_window;
 TextLayer *text_layer;
 
@@ -14,6 +14,7 @@ void handle_deinit(void) {
   text_layer_destroy(text_layer);
   window_destroy(my_window);
 }
+*/
 
 int main(void) {
   handle_init();
