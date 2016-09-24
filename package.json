@@ -1,0 +1,27 @@
+{
+    "author": "kswanso4@gatech.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblelearning",
+    "pebble": {
+        "displayName": "PebbleLearning",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "0921ae42-563a-4571-83d2-35f06ca315f5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
